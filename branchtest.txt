@@ -1,2 +1,2 @@
 This is a demo for branch testing in Git.
-This is after branch1.
+This is master branch
